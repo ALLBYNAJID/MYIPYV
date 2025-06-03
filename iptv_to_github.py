@@ -10,7 +10,7 @@ MAC_ADDRESS = "00:1A:79:B6:D0:06"
 SN = "E7327B057414E"
 
 # GitHub Config — UPDATE WITH YOUR TOKEN
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 GITHUB_OWNER = "ALLBYNAJID"
 GITHUB_REPO = "MYIPYV"
 GITHUB_FILE_PATH = "playlist.m3u"  # filename in your repo
